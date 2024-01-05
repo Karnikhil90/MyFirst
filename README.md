@@ -8,4 +8,4 @@ In my coding journey, I'm working on a special project called "MyFirst." It's li
 
 ## 3. About Me 👋
 
-Hi there! I'm Nikhil Karmakar, and I'm so happy to share my coding adventures with you. I'm like a coding explorer, and I love to learn new things every day. If you want to say hello or have cool ideas to share, you can send me an email at 📧 nikhilkarmakar4020@gmail.com, or find me on Twitter at 🐦 @karnikhil90. Let's have fun together as I continue this coding journey! 🚀
+Hi there! I'm Nikhil Karmakar, and I'm so happy to share my coding adventures with you. I'm like a coding explorer, and I love to learn new things every day. If you want to say hello or have cool ideas to share, you can send me an email at 📧 **Email:** [nikhilkarmakar4020@gmail.com](mailto:nikhilkarmakar4020@gmail.com), or find me on **Twitter:**  🐦[@karnikhil90](https://twitter.com/karnikhil90). Let's have fun together as I continue this coding journey! 🚀
