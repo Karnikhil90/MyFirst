@@ -229,7 +229,6 @@ _______________________________________
     - Introducing JSON DATA storing.
     - Simplifies the login process and user ID creation.
     - Allows users to effortlessly create a user ID.
-    - Now you can log in directly to ConnectX, our new Social Media app.
 
            Created by Nikhil Karmakar
 _______________________________________
