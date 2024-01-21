@@ -1,10 +1,10 @@
 import random as r
 import string
-from FileAccess import FileAccess
+from UserDataAccess import FileAccess
 
 class UserDataBank:
     def __init__(self):
-        self.File = FileAccess('userData.json')
+        self.File = FileAccess.FileAccess('UserDataAccess\\userData.json')
         try:
             self.userData = self.File.readData()
         except:
