@@ -4,6 +4,7 @@ from UserDataAccess import FileAccess
 
 class UserDataBank:
     def __init__(self):
+        print("UserDataBank")
         self.File = FileAccess.FileAccess('UserDataAccess\\userData.json')
         try:
             self.userData = self.File.readData()
