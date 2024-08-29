@@ -26,7 +26,7 @@ class FileAccess:
                 return read_data
         except (FileNotFoundError, json.JSONDecodeError):
             print(f"Error reading {file_path}. Returning empty list.")
-            return [-1]
+            return []
     def CreateFile(self):
         try:
             with open(self.file_address, 'x') as file:
